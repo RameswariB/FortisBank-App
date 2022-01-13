@@ -1,0 +1,2 @@
+# FortisBank-App
+FortisBank-App Implemented : November- December -2021 Language used: JAVA , MYSQL This Bank application system has two different users customer and managers. Manager interface able to manage customers and perform general task. Customer will perform transacrtions and inteface validates transactions as well as manages exceptions. For this project, the analysis, design and implementation done according to object-oriented programing concepts.
